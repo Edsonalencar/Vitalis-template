@@ -1,1 +1,1 @@
-# Modelo-vite-vue3-rounter-ts-tailwind
+# ⚡ Vite + Vue 3 + Typescipt + Tailwind CSS
