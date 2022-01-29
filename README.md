@@ -36,5 +36,4 @@ The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs]
 npm i         | yarn
 npm run dev   | yarn dev
 npm run build | yarn build
-npm run serve | yarn serve
 ```
