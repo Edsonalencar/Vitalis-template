@@ -33,7 +33,7 @@ The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs]
 ## Getting Started
 
 ```
-npx degit Edsonalencar/Vite-vue3-starter-template my-project
+npx degit Edsonalencar/Vitalis-template my-project
 cd my-project
 ```
 
