@@ -33,6 +33,11 @@ The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs]
 ## Getting Started
 
 ```
+npx degit Edsonalencar/Vite-vue3-starter-template my-project
+cd my-project
+```
+
+```
 npm i         | yarn
 npm run dev   | yarn dev
 npm run build | yarn build
